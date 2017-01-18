@@ -1,3 +1,5 @@
+/* 18/01/2017 */
+/* ®Marian Bergerot*/
 package main
 
 import (
