@@ -11,7 +11,7 @@ var name string
 
 func main() {
 
-	fmt.Print("Nom: ")
+	fmt.Print("Pseudo: ")
 	fmt.Scanln(&name)
 	fmt.Println(name +": ")
 
